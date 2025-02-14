@@ -30,6 +30,25 @@ Create a Google Spreadsheet and create a table with this format
 ![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/1create%20spreedsheet.png)
 ![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/2set%20sheet%20template.png)
 
+### Step 2
+Create a **bound** App Scripts for this Spreadsheet and add the Google Sheets API from the Services tab
+![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/3create%20app%20scripts.png)
+![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/4add%20gsheets%20api.png)
+
+### Step 3
+Erase the existing code <code>function myFunction()...</code> and copy paste the code from [Main.js](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/Main.js)
+![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/5copypaste%20code%20from%20Main.js%20into%20here.png)
+
+### Step 4
+Deploy the file as a webapp
+![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/6deploy%20it.png)
+![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/6deploy%20as%20webapp.png)
+
+
+### Step 5
+Copy your deployment ID
+![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/7copy%20deployment%20id.png)
+
 ## roadmap
 - total mileage and base pay per month
 - delete most recent log
