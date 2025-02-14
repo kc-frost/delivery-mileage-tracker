@@ -1,5 +1,10 @@
 var sheet = SpreadsheetApp.getActiveSheet();
 
+/**
+ * This is for me, the author, because I use clasp and git(hub) concurrently with this project
+ * Push to clasp before thinking about doing anything about pushing to git
+ */
+
 // TESTING
 // Don't mess with this, or do, it doesn't really affect anything anyway
 function debug() {
