@@ -12,6 +12,7 @@ track your miles per delivery!
   - mileage (unit insensitive)
   - base pay**
 - google sheets integration
+- delete most recent log
 
 _* logged automatically <br />
 ** doesn't have to be the base pay_
@@ -41,6 +42,7 @@ Erase the existing code <code>function myFunction()...</code> and copy paste the
 
 ### Step 4
 Deploy the file as a webapp
+
 ![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/6deploy%20it.png)
 ![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/6deploy%20as%20webapp.png)
 
@@ -49,7 +51,11 @@ Deploy the file as a webapp
 Copy your deployment ID
 ![](https://github.com/kc-frost/delivery-mileage-tracker/blob/main/images/7copy%20deployment%20id.png)
 
+
+### Step 6
+Import this [shortcut](https://www.icloud.com/shortcuts/257ad52992004f51ae059178a39a6d70) to your phone, and paste your deployment ID in the Text box that asks for it, and it's all set!
+
 ## roadmap
 - total mileage and base pay per month
-- delete most recent log
+- ~~delete most recent log~~
 - customize where data is saved and not be limited by tables
